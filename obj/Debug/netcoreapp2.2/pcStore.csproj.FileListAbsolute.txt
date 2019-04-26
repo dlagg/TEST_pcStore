@@ -1,0 +1,11 @@
+/home/dlag/Documentos/Proyectos/pcStore/bin/Debug/netcoreapp2.2/pcStore.deps.json
+/home/dlag/Documentos/Proyectos/pcStore/bin/Debug/netcoreapp2.2/pcStore.runtimeconfig.json
+/home/dlag/Documentos/Proyectos/pcStore/bin/Debug/netcoreapp2.2/pcStore.runtimeconfig.dev.json
+/home/dlag/Documentos/Proyectos/pcStore/bin/Debug/netcoreapp2.2/pcStore.dll
+/home/dlag/Documentos/Proyectos/pcStore/bin/Debug/netcoreapp2.2/pcStore.pdb
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.csprojAssemblyReference.cache
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.csproj.CoreCompileInputs.cache
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.AssemblyInfoInputs.cache
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.AssemblyInfo.cs
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.dll
+/home/dlag/Documentos/Proyectos/pcStore/obj/Debug/netcoreapp2.2/pcStore.pdb
