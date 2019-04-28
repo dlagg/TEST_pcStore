@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 
 namespace pcStore
@@ -11,7 +12,7 @@ namespace pcStore
         private class rowsProd
         {
             Product xProduct;
-            private string mProdName;
+            private string mProdName,mCustomer,mEmployee;
             private int mProdPrice,mQuProd,mTotPrice;
 
             public string ProdName{
@@ -30,8 +31,8 @@ namespace pcStore
                 get{ return mTotPrice; }
                 set{ mTotPrice = value; }
             }
-            QuProd = 4; //test
-            TotPrice = QuProd * xProduct.Price;
+            //QuProd = 4; //test
+            //TotPrice = QuProd * xProduct.Price;
         }
         //
         private int mID,mTcost,mTcostDirty;

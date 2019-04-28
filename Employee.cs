@@ -67,6 +67,7 @@ namespace pcStore
             string data="";
             foreach (Invoice xInvoice in mSales)
             {
+                xInvoice.
                 data+=
             }
             return data;
